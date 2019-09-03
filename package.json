@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "github_action_test",
   "scripts": {
-    "build": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo hi",
     "test": "cross-env NODE_ENV=test APP_ENV=test jest"
   },
   "repository": {
